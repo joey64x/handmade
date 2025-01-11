@@ -3,7 +3,7 @@ Project working through the Handmade Hero videos created by Casey Muratori
 
 ## Visual Studio Code Terminal Configuration Startup
 In the first episode of Handmade Hero, Casey sets up a batch file to initialize the environment for development. I don't use emacs or command prompt. I'm using Visual Studio Code and PowerShell. To do this, I needed to add this entry to the settings in VS Code:
-``
+```
 {
     "terminal.integrated.profiles.windows": {
         "MSVC PowerShell": {
