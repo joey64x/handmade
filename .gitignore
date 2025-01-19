@@ -1,0 +1,16 @@
+# Vim files
+*~
+*.swp
+*.swo
+*.un~
+
+# Build outputs
+*.exe
+*.obj
+*.pdb
+*.ilk
+build/
+
+# Visual Studio files
+.vs/
+*.user
