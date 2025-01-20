@@ -3,6 +3,8 @@
 *.swp
 *.swo
 *.un~
+.*un~
+**/*.un~
 
 # Build outputs
 *.exe
